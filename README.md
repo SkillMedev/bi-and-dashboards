@@ -1,8 +1,8 @@
 # BI & Dashboards
 
-**Turn warehouse rows into decisions — dashboards and the story behind them.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For analysts: ship a dashboard execs trust, plus the story that makes the numbers land.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-The business-intelligence stack. Build dashboards in Tableau and Power BI, turn SQL into insights, narrate the data story, analyze customers, summarize for execs, and spot trends.
+Reach for this when you have data in a warehouse and a stakeholder who needs to act on it. It takes you from query to a clean, performant dashboard in Tableau or Power BI, then turns the numbers into a headline-first narrative that survives the exec meeting — so the work gets read, not just built.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,13 +14,10 @@ The business-intelligence stack. Build dashboards in Tableau and Power BI, turn 
 
 ## Skills in this pack
 
-- **[Tableau Best Practices](skills/tableau-best-practices/SKILL.md)** — Designs Tableau dashboards with proper aggregation, LOD expressions, and performance optimization.
 - **[Power BI DAX](skills/power-bi-dax/SKILL.md)** — Writes DAX measures and calculated columns with time intelligence and filter context.
+- **[Tableau Best Practices](skills/tableau-best-practices/SKILL.md)** — Designs Tableau dashboards with proper aggregation, LOD expressions, and performance optimization.
 - **[SQL to Insights](skills/sql-to-insights/SKILL.md)** — Turns raw SQL results into business narrative with visualization recommendations.
 - **[Data Storyteller](skills/data-story/SKILL.md)** — Turns data and charts into narrative — headline finding, trend, implication, so-what.
-- **[Customer Analytics](skills/customer-analytics/SKILL.md)** — Builds cohort analysis, LTV models, and churn prediction from transactional data.
-- **[Executive Summary](skills/executive-summary/SKILL.md)** — Compresses long documents into one-page executive summaries with key insights and recommendations.
-- **[Trend Analysis](skills/trend-analysis/SKILL.md)** — Identifies emerging trends from data, separates noise from signal, and forecasts trajectory.
 
 ## License
 
