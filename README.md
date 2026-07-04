@@ -9,7 +9,7 @@ Reach for this when you have data in a warehouse and a stakeholder who needs to 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/bi-and-dashboards](https://skillme.dev/pack/bi-and-dashboards) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/bi-and-dashboards`
+- **With the skills CLI:** `npx skills add SkillMedev/bi-and-dashboards`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
